@@ -1,4 +1,6 @@
 # Classical Elements
+## original by Professor Joshua Clayton
+### edited by Bo Young Lee
 An SVG icon system of classical elements
 
 * Earth
@@ -6,3 +8,5 @@ An SVG icon system of classical elements
 * Fire
 * Water
 * Æther
+
+[Original Icons](https://github.com/jclayton/classical-elements/)
